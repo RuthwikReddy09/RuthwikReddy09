@@ -14,8 +14,9 @@
 <a href="https://linkedin.com/in/ruthwik reddy doodipala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruthwik reddy doodipala" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Badges:</h3>
+
 [![An image of @ruthwikreddy09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruthwikreddy09)](https://holopin.io/@ruthwikreddy09)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthwikreddy09&show_icons=true&locale=en" alt="ruthwikreddy09" /></p>
 
