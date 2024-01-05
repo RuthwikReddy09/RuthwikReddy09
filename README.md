@@ -20,7 +20,6 @@
   
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ruthwikreddy09&theme=dark&show_icons=true&rank_icon=github" />
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ruthwikreddy09&theme=dark&card_width=480)](https://git.io/streak-stats)
 
 <h3 align="left">Badges</h3>
 
